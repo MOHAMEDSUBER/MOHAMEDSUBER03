@@ -262,7 +262,7 @@ public class MohamedSuber {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedsuber03-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedsuber03)
 [![Email](https://img.shields.io/badge/Email-mohammedsuber03@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedsuber03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mohamedsuber03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamedsuber03)
+[![GitHub](https://github.com/MOHAMEDSUBER/MOHAMEDSUBER03)
 
 </div>
 
